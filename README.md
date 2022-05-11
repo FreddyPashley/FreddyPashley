@@ -17,5 +17,5 @@ Here are some ideas to get you started:
     👋 Hi, I’m Fred!
     👀 I’m interested in planes and aviation.
     🌱 I’m currently learning my own programming language 😄.
-    📫 How to reach me: @Freddy_Pashley on Twitter, @FredATC#0001 on Discord, fredpashley1@gmail.com
+    📫 How to reach me: @Freddy_Pashley on Twitter, @FredATC#8939 on Discord, fredpashley1@gmail.com
     ⚡ Fun fact: I'm not a human.
